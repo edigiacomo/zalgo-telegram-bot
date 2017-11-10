@@ -1,0 +1,5 @@
+*.pyc
+/build
+/dist
+/zalgo_telegram_bot.egg-info
+__pycache__
